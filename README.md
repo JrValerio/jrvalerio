@@ -128,7 +128,7 @@ function contatcMe() {
   <br>
   <br>
   <div>
-    <p>Profile views since 11/21/2021:</p>
+    <p>Profile views since 10/02/2023:</p>
     <p><img alingn="center" src="https://profile-counter.glitch.me/jrvalerio/count.svg"></p>
   </div>
 </div>
