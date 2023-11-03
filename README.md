@@ -102,7 +102,7 @@ function contatcMe() {
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS</em></p>      
-      <p>Atividade do curso Desenvolvedor Fullstack. - O objetivo da atividade era exercitar o conhecimento em CSS utilizando o flexbox. Uma interface de um blog.</p>
+      <p>Atividade do curso Desenvolvedor Fullstack. - O objetivo da atividade era exercitar o conhecimento em CSS. Criei uma interface de um blog, utilizando Grid Layout e Flex Box.</p>
     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/Kenzie-Academy-Brasil-Developers/m1-barbearia-web-jrvalerio" target= "_blank">Entrega 5 | 🏁 Barbearia Web</a></h2>
