@@ -61,16 +61,16 @@ function contatcMe() {
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Kenzie-Academy-Brasil-Developers/m1-sp2-kenzie-blog-jrvalerio">Entrega 1 | 🏁 Blog Kenzie </a></h2>
-      <a href="https://kenzie-academy-brasil-developers.github.io/m1-sp2-kenzie-blog-jrvalerio/">Project-preview</a>
+      <h2 align="center"><a href="https://github.com/Kenzie-Academy-Brasil-Developers/m1-sp2-kenzie-blog-jrvalerio" target= "_blank">Entrega 1 | 🏁 Blog Kenzie </a></h2>
+      <a href="https://kenzie-academy-brasil-developers.github.io/m1-sp2-kenzie-blog-jrvalerio/" target= "_blank">Project-preview</a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS</em></p>      
       <p>Primeira entrega do curso Desenvolvedor Fullstack. - O objetivo desse projeto era criar um blog com um compilado de artigos com links para endereços externos. Ao clicar no post, o usuário será               levado para outro site e visualizará o artigo completo. Após os posts, teremos um formulário solicitando de cadastro do usuário.</p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Kenzie-Academy-Brasil-Developers/m1-kenzie-flix-jrvalerio">Entrega 2 | 🏁 Interface KenzieFlix</a></h2>
-      <a href="https://kenzie-academy-brasil-developers.github.io/m1-kenzie-flix-jrvalerio/">Project-preview</a>
+      <h2 align="center"><a href="https://github.com/Kenzie-Academy-Brasil-Developers/m1-kenzie-flix-jrvalerio" target= "_blank">Entrega 2 | 🏁 Interface KenzieFlix</a></h2>
+      <a href="https://kenzie-academy-brasil-developers.github.io/m1-kenzie-flix-jrvalerio/" target= "_blank">Project-preview</a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS</em></p>      
@@ -79,16 +79,16 @@ function contatcMe() {
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Kenzie-Academy-Brasil-Developers/m1-pedra-papel-tesoura-jrvalerio">Entrega 3 | 🏁 Pedra Papel Tesoura</a></h2>
-      <a href="https://kenzie-academy-brasil-developers.github.io/m1-pedra-papel-tesoura-jrvalerio/">Project-preview</a>
+      <h2 align="center"><a href="https://github.com/Kenzie-Academy-Brasil-Developers/m1-pedra-papel-tesoura-jrvalerio" target= "_blank">Entrega 3 | 🏁 Pedra Papel Tesoura</a></h2>
+      <a href="https://kenzie-academy-brasil-developers.github.io/m1-pedra-papel-tesoura-jrvalerio/" target= "_blank">Project-preview</a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> JavaScript</em></p>      
       <p>Terceira entrega do curso Desenvolvedor Fullstack. - O objetivo do projeto era implementar uma função chamada <strong>playRockPaperScissor</strong> que recebe dois parâmetros: player1 e player2.,               ambos são strings entre as possibilidades "Pedra", "Papel" e "Tesoura". Essa função deverá simular o jogo entre dois jogadores.</p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Kenzie-Academy-Brasil-Developers/m1-palindromo-min-max-jrvalerio">Entrega 4 | 🏁 Palíndromo e Min Max</a></h2>
-      <a href="https://kenzie-academy-brasil-developers.github.io/m1-palindromo-min-max-jrvalerio/">Project-preview</a>
+      <h2 align="center"><a href="https://github.com/Kenzie-Academy-Brasil-Developers/m1-palindromo-min-max-jrvalerio" target= "_blank">Entrega 4 | 🏁 Palíndromo e Min Max</a></h2>
+      <a href="https://kenzie-academy-brasil-developers.github.io/m1-palindromo-min-max-jrvalerio/" target= "_blank">Project-preview</a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong>  JavaScript</em></p>      
@@ -97,16 +97,16 @@ function contatcMe() {
   </tr> 
   <tr>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/JrValerio/Blog-Kenzie">S3-07 | 💪 Atividade: Blog com Flexbox</a></h2>
-      <a href="https://jrvalerio.github.io/Blog-Kenzie/">Project-preview</a>
+      <h2 align="center"><a href="https://github.com/JrValerio/Blog-Kenzie" target= "_blank">S3-07 | 💪 Atividade: Blog com Flexbox</a></h2>
+      <a href="https://jrvalerio.github.io/Blog-Kenzie/" target= "_blank">Project-preview</a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS</em></p>      
       <p>Atividade do curso Desenvolvedor Fullstack. - O objetivo da atividade era exercitar o conhecimento em CSS utilizando o flexbox. Uma interface de um blog.</p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/Kenzie-Academy-Brasil-Developers/m1-barbearia-web-jrvalerio">Entrega 5 | 🏁 Barbearia Web</a></h2>
-      <a href="https://kenzie-academy-brasil-developers.github.io/m1-barbearia-web-jrvalerio/">Project-preview</a>
+      <h2 align="center"><a href="https://github.com/Kenzie-Academy-Brasil-Developers/m1-barbearia-web-jrvalerio" target= "_blank">Entrega 5 | 🏁 Barbearia Web</a></h2>
+      <a href="https://kenzie-academy-brasil-developers.github.io/m1-barbearia-web-jrvalerio/" target= "_blank">Project-preview</a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong>  JavaScript</em></p>      
@@ -131,7 +131,7 @@ function contatcMe() {
   <br>
   <br>
   <div>
-    <p>Profile views since 10/02/2023:</p>
+    <p>Profile views since 09/02/2023:</p>
     <p><img alingn="center" src="https://profile-counter.glitch.me/jrvalerio/count.svg"></p>
   </div>
 </div>
