@@ -92,6 +92,24 @@ function contatcMe() {
       <p>Quarta entrega do curso Desenvolvedor Fullstack - Esse projeto envolve o desenvolvimento de duas funções, <strong>isPalindrome e arrayMaxMin</strong>, utilizando loop <strong>for</strong> e                   <strong>array</strong>.</p>
     </td>
   </tr> 
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/JrValerio/Blog-Kenzie">S3-07 | 💪 Atividade: Blog com Flexbox</a></h2>
+      <a href="https://jrvalerio.github.io/Blog-Kenzie/">Project-preview</a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS</em></p>      
+      <p>Atividade do curso Desenvolvedor Fullstack. - O objetivo da atividade era exercitar o conhecimento em CSS utilizando o flexbox. Uma interface de um blog.</p>
+    </td>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/Kenzie-Academy-Brasil-Developers/m1-barbearia-web-jrvalerio">Entrega 5 | 🏁 Barbearia Web</a></h2>
+      <a href="https://kenzie-academy-brasil-developers.github.io/m1-barbearia-web-jrvalerio/">Project-preview</a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong>  JavaScript</em></p>      
+      <p>Quinta entrega do curso Desenvolvedor Fullstack - Esse projeto simula a contratação de um clientes que é barbeiro e com uma alta demanda de serviços ele me contrata para desenvolver um sistema onde           o cliente poderá realizar uma série de ações, como: buscar corte e barba, consultar se a barbearia está aberta ou fechada, orçar um pedido, entre outros.</p>
+    </td>
+  </tr> 
 </table>
 
 <hr />
