@@ -120,13 +120,13 @@ function contatcMe() {
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aboreto&size=35&pause=1000&color=00bfbf&width=600&lines=GitHub+Statistics)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="250px" src="https://github-readme-stats.vercel.app/api?username=jrvalerio&count_private=true&show_icons=true&theme=dracula" />
+    <img align="center" width="150em" src="https://github-readme-stats.vercel.app/api?username=jrvalerio&count_private=true&show_icons=true&theme=dracula" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrvalerio&theme=dracula&hide_border=false&&layout=compact"/>
+    <img align="center" width="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrvalerio&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
   <a href="https://git.io/streak-stats">
-    <img align="center" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=jrvalerio&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+    <img align="center" width="150em" src="http://github-readme-streak-stats.herokuapp.com?user=jrvalerio&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
   <br>
   <br>
