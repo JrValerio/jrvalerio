@@ -123,7 +123,7 @@ function contatcMe() {
     <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=jrvalerio&count_private=true&show_icons=true&theme=dracula" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrvalerio&layout=compact&theme=dracula&langs_count=10&hide=shell,less,dockerfile,jinja" />
+    <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrvalerio&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
   <a href="https://git.io/streak-stats">
     <img align="center" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=jrvalerio&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
