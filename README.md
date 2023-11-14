@@ -107,7 +107,18 @@ function contatcMe() {
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong>  JavaScript</em></p>      
       <p>Quinta entrega do curso Desenvolvedor Fullstack - Esse projeto simula a contratação de um clientes que é barbeiro e com uma alta demanda de serviços ele me contrata para desenvolver um sistema onde           o cliente poderá realizar uma série de ações, como: buscar corte e barba, consultar se a barbearia está aberta ou fechada, orçar um pedido, entre outros.</p>
+    </td>    
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/JrValerio/Fylo">Fylo landing page with two column layout</a></h2>
+      <a href="https://jrvalerio.github.io/Fylo/"><img width="100%" src="https://raw.githubusercontent.com/JrValerio/jrvalerio/main/desktop-preview.jpg" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, Styled Components, Mobile First</em></p>
+      <p>Desafio do Frontend Mentor: Fylo landing page with two column layout. O desafio consiste em criar uma landing page para o Fylo com um layout de duas colunas. Os usuários devem ser capazes de                  visualizar o layout ideal do site, dependendo do tamanho da tela do dispositivo e devem ver os estados de hover para todos os elementos interativos na página.</p>
     </td>
+  </tr>
   </tr> 
 </table>
 
