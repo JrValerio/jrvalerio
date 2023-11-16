@@ -112,11 +112,19 @@ function contatcMe() {
   <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/JrValerio/Fylo">Fylo landing page with two column layout</a></h2>
-      <a href="https://jrvalerio.github.io/Fylo/"><img width="100%" src="https://raw.githubusercontent.com/JrValerio/jrvalerio/main/desktop-preview.jpg" alt="Project-preview" /></a>
+      <a href="https://jrvalerio.github.io/Fylo/"><img width="100%" height="20%" src="https://raw.githubusercontent.com/JrValerio/jrvalerio/main/desktop-preview.jpg" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, Styled Components, Mobile First</em></p>
       <p>Desafio do Frontend Mentor: Fylo landing page with two column layout. O desafio consiste em criar uma landing page para o Fylo com um layout de duas colunas. Os usuários devem ser capazes de                  visualizar o layout ideal do site, dependendo do tamanho da tela do dispositivo e devem ver os estados de hover para todos os elementos interativos na página.</p>
+    </td>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/JrValerio/Profile-card-component">Profile card component</a></h2>
+      <a href="https://jrvalerio.github.io/Profile-card-component/"><img width="100%" src="https://raw.githubusercontent.com/JrValerio/jrvalerio/main/Profile-card-component.jpeg" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, Styled Components, Mobile First</em></p>
+      <p>Desafio do Frontend Mentor: Profile card component. O desafio consiste em criar um componente de cartão de perfil responsivo, incluindo a imagem do perfil, informações pessoais e ícones de redes              sociais. O objetivo é praticar habilidades de design e implementação de layouts utilizando HTML e CSS. O projeto foi desenvolvido utilizando a metodologia Mobile First, garantindo uma experiência             de usuário aprimorada em dispositivos móveis. O código-fonte está disponível no <a href="https://github.com/JrValerio/Profile-card-component" target="_blank">GitHub</a>.</p>
     </td>
   </tr>
   </tr> 
