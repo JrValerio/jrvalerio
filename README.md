@@ -144,6 +144,28 @@ function contatcMe() {
     <p>Desafio da Kenzie Academy Brasil: Git Search. Este projeto envolve a criação de uma aplicação web para buscar e visualizar perfis do GitHub. O desafio é desenvolver uma ferramenta de busca que  integra com a API do GitHub, permitindo aos usuários explorar perfis e repositórios de forma dinâmica e responsiva. O objetivo principal é aplicar habilidades de programação frontend para consumir e        apresentar dados de uma API externa. O projeto foi desenvolvido seguindo a abordagem Mobile First, assegurando uma ótima experiência de usuário em dispositivos móveis. O código-fonte está disponível no <a href="https://github.com/JrValerio/gitSearchBase" target="_blank">GitHub</a>.</p>
   </td>
   </tr>
+  <tr>
+    <td valign="top" width="50%">
+    <h2 align="center"><a href="https://github.com/JrValerio/site-institucional-generico">Site Institucional Genérico</a></h2>
+    <a href="https://jrvalerio.github.io/site-institucional-generico/">
+        <img width="100%" height="20%" src="https://raw.githubusercontent.com/JrValerio/site-institucional-generico/main/src/assets/P%C3%A1gina%20Institucional%20Gen%C3%A9rica%20Preview.png" alt="Visualização do Projeto - Site Institucional Genérico" />
+    </a>
+    <br>
+    <br>
+    <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> HTML, CSS, JavaScript, Design Responsivo, Media Queries</em></p>
+    <p>Este projeto é um exemplo de site institucional desenvolvido com foco em práticas modernas de desenvolvimento web. Ele incorpora um design responsivo, adaptando-se perfeitamente a diferentes tamanhos de tela e dispositivos. Utilizando HTML, CSS e JavaScript, o site apresenta uma interface intuitiva e atrativa. Destaca-se o uso eficaz de Media Queries e a função CSS 'clamp()' para garantir uma experiência de usuário fluida e acessível. O código-fonte está disponível no <a href="https://github.com/JrValerio/site-institucional-generico" target="_blank">GitHub</a>.</p>
+</td>
+
+
+    <td valign="top" width="50%">
+     <h2 align="center"><a href="https://github.com/JrValerio/gitSearchBase">Git Search</a></h2>
+     <a href="https://jrvalerio.github.io/gitSearchBase/index.html"><img width="100%" src="https://raw.githubusercontent.com/JrValerio/gitSearchBase/main/src/assets/Git%20Search.png" alt="Git Search Project Preview" /></a>
+    <br>
+    <br>
+    <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> HTML, CSS, JavaScript, API Integration, Responsive Design, Mobile First</em></p>
+    <p>Desafio da Kenzie Academy Brasil: Git Search. Este projeto envolve a criação de uma aplicação web para buscar e visualizar perfis do GitHub. O desafio é desenvolver uma ferramenta de busca que  integra com a API do GitHub, permitindo aos usuários explorar perfis e repositórios de forma dinâmica e responsiva. O objetivo principal é aplicar habilidades de programação frontend para consumir e        apresentar dados de uma API externa. O projeto foi desenvolvido seguindo a abordagem Mobile First, assegurando uma ótima experiência de usuário em dispositivos móveis. O código-fonte está disponível no <a href="https://github.com/JrValerio/gitSearchBase" target="_blank">GitHub</a>.</p>
+  </td>
+  </tr>
   </tr> 
 </table>
 
