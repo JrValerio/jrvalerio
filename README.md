@@ -136,13 +136,13 @@ function contatcMe() {
       <p>Este projeto é um buscador de CEP desenvolvido em React JS. Ele permite aos usuários inserir um CEP e obter informações detalhadas sobre o endereço correspondente.</p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/JrValerio/Profile-card-component">Profile card component</a></h2>
-      <a href="https://jrvalerio.github.io/Profile-card-component/"><img width="100%" src="https://raw.githubusercontent.com/JrValerio/jrvalerio/main/Profile-card-component.jpeg" alt="Project-preview" /></a>
-      <br>
-      <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, Styled Components, Mobile First</em></p>
-      <p>Desafio do Frontend Mentor: Profile card component. O desafio consiste em criar um componente de cartão de perfil responsivo, incluindo a imagem do perfil, informações pessoais e ícones de redes              sociais. O objetivo é praticar habilidades de design e implementação de layouts utilizando HTML e CSS. O projeto foi desenvolvido utilizando a metodologia Mobile First, garantindo uma experiência             de usuário aprimorada em dispositivos móveis. O código-fonte está disponível no <a href="https://github.com/JrValerio/Profile-card-component" target="_blank">GitHub</a>.</p>
-    </td>
+     <h2 align="center"><a href="https://github.com/JrValerio/gitSearchBase">Git Search</a></h2>
+     <a href="https://jrvalerio.github.io/gitSearchBase/index.html"><img width="100%" src="https://raw.githubusercontent.com/JrValerio/gitSearchBase/main/src/assets/Git%20Search.png" alt="Git Search Project Preview" /></a>
+    <br>
+    <br>
+    <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> HTML, CSS, JavaScript, API Integration, Responsive Design, Mobile First</em></p>
+    <p>Desafio da Kenzie Academy Brasil: Git Search. Este projeto envolve a criação de uma aplicação web para buscar e visualizar perfis do GitHub. O desafio é desenvolver uma ferramenta de busca que  integra com a API do GitHub, permitindo aos usuários explorar perfis e repositórios de forma dinâmica e responsiva. O objetivo principal é aplicar habilidades de programação frontend para consumir e        apresentar dados de uma API externa. O projeto foi desenvolvido seguindo a abordagem Mobile First, assegurando uma ótima experiência de usuário em dispositivos móveis. O código-fonte está disponível no <a href="https://github.com/JrValerio/gitSearchBase" target="_blank">GitHub</a>.</p>
+  </td>
   </tr>
   </tr> 
 </table>
