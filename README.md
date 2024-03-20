@@ -185,7 +185,30 @@ function contatcMe() {
     <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> React, React Router Dom, Axios, React Hook Form, Zod, SASS, React Icons</em></p>
     <p>Kenzie Hub é uma aplicação web desenvolvida como parte do programa de treinamento da Kenzie Academy. O projeto visa fornecer uma plataforma onde os alunos podem registrar e acompanhar suas habilidades adquiridas ao longo do curso. Utiliza tecnologias modernas como React, React Hook Form para gerenciamento de formulários e validação com Zod, além de SASS para estilização. O código-fonte está disponível no <a href="https://github.com/JrValerio/Kenzie-Hub" target="_blank">GitHub</a>.</p>
 </td>
+  </tr> 
+  <tr>
+   <td valign="top" width="50%">
+    <h2 align="center"><a href="https://github.com/JrValerio/decodificador-de-textos">Decodificador de Textos</a></h2>
+    <a href="https://jrvalerio.github.io/decodificador-de-textos/">
+      <img width="100%" height="20%" src="https://raw.githubusercontent.com/JrValerio/decodificador-de-textos/72734b41fa558d07675949a683b1e7d08d07d563/assets/img/Decodificador%20de%20Textos.png" alt="Visualização do Projeto - Decodificador de Textos" />
+    </a>
+    <br>
+    <br>
+    <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> HTML, CSS (Tailwind CSS), JavaScript</em></p>
+    <p>Este projeto é uma aplicação web que permite ao usuário criptografar e descriptografar mensagens de texto utilizando uma chave de substituição simples. A interface é construída com HTML e estilizada utilizando o framework Tailwind CSS, proporcionando um design responsivo. A lógica de criptografia e descriptografia é implementada com JavaScript. O código-fonte está disponível no <a href="https://github.com/JrValerio/decodificador-de-textos" target="_blank">GitHub</a>.</p>
+  </td>
 
+
+<td valign="top" width="50%">
+    <h2 align="center"><a href="https://github.com/JrValerio/Kenzie-Hub">Kenzie Hub</a></h2>
+    <a href="https://kenzie-hub-seven-blue.vercel.app/">
+        <img width="100%" height="20%" src="https://raw.githubusercontent.com/JrValerio/Kenzie-Hub/main/src/assets/Kenzie%20Hub.png" alt="Visualização do Projeto - Kenzie Hub" />
+    </a>
+    <br>
+    <br>
+    <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> React, React Router Dom, Axios, React Hook Form, Zod, SASS, React Icons</em></p>
+    <p>Kenzie Hub é uma aplicação web desenvolvida como parte do programa de treinamento da Kenzie Academy. O projeto visa fornecer uma plataforma onde os alunos podem registrar e acompanhar suas habilidades adquiridas ao longo do curso. Utiliza tecnologias modernas como React, React Hook Form para gerenciamento de formulários e validação com Zod, além de SASS para estilização. O código-fonte está disponível no <a href="https://github.com/JrValerio/Kenzie-Hub" target="_blank">GitHub</a>.</p>
+</td>
   </tr> 
 </table>
 
