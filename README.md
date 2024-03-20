@@ -200,15 +200,16 @@ function contatcMe() {
 
 
 <td valign="top" width="50%">
-    <h2 align="center"><a href="https://github.com/JrValerio/Kenzie-Hub">Kenzie Hub</a></h2>
-    <a href="https://kenzie-hub-seven-blue.vercel.app/">
-        <img width="100%" height="20%" src="https://raw.githubusercontent.com/JrValerio/Kenzie-Hub/main/src/assets/Kenzie%20Hub.png" alt="Visualização do Projeto - Kenzie Hub" />
-    </a>
-    <br>
-    <br>
-    <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> React, React Router Dom, Axios, React Hook Form, Zod, SASS, React Icons</em></p>
-    <p>Kenzie Hub é uma aplicação web desenvolvida como parte do programa de treinamento da Kenzie Academy. O projeto visa fornecer uma plataforma onde os alunos podem registrar e acompanhar suas habilidades adquiridas ao longo do curso. Utiliza tecnologias modernas como React, React Hook Form para gerenciamento de formulários e validação com Zod, além de SASS para estilização. O código-fonte está disponível no <a href="https://github.com/JrValerio/Kenzie-Hub" target="_blank">GitHub</a>.</p>
+  <h2 align="center"><a href="https://github.com/JrValerio/portfolio-template-JrValerio">Portfolio Template</a></h2>
+  <a href="https://portfolio-template-jr-valerio.vercel.app/">
+    <img width="100%" height="5%" src="https://raw.githubusercontent.com/JrValerio/portfolio-template-JrValerio/main/src/assets/portfolio-template-JrValerio.png" alt="Visualização do Projeto - Portfolio Template" />
+  </a>
+  <br>
+  <br>
+  <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> React, CSS, JavaScript, Axios, React Router, Vercel</em></p>
+  <p>Este projeto é um template de portfólio pessoal desenvolvido utilizando o framework React. Ele apresenta uma interface moderna e responsiva, que permite aos usuários visualizar informações pessoais, habilidades técnicas e projetos realizados. O portfólio utiliza Axios para integração com APIs e React Router para o gerenciamento de rotas. O código-fonte está disponível no <a href="https://github.com/JrValerio/portfolio-template-JrValerio" target="_blank">GitHub</a>, e o projeto está hospedado na plataforma <a href="https://portfolio-template-jr-valerio.vercel.app/" target="_blank">Vercel</a>.</p>
 </td>
+
   </tr> 
 </table>
 
