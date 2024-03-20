@@ -197,8 +197,6 @@ function contatcMe() {
     <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> HTML, CSS (Tailwind CSS), JavaScript</em></p>
     <p>Este projeto é uma aplicação web que permite ao usuário criptografar e descriptografar mensagens de texto utilizando uma chave de substituição simples. A interface é construída com HTML e estilizada utilizando o framework Tailwind CSS, proporcionando um design responsivo. A lógica de criptografia e descriptografia é implementada com JavaScript. O código-fonte está disponível no <a href="https://github.com/JrValerio/decodificador-de-textos" target="_blank">GitHub</a>.</p>
   </td>
-
-
 <td valign="top" width="50%">
   <h2 align="center"><a href="https://github.com/JrValerio/portfolio-template-JrValerio">Portfolio Template</a></h2>
   <a href="https://portfolio-template-jr-valerio.vercel.app/">
@@ -209,6 +207,19 @@ function contatcMe() {
   <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> React, CSS, JavaScript, Axios, React Router, Vercel</em></p>
   <p>Este projeto é um template de portfólio pessoal desenvolvido utilizando o framework React. Ele apresenta uma interface moderna e responsiva, que permite aos usuários visualizar informações pessoais, habilidades técnicas e projetos realizados. O portfólio utiliza Axios para integração com APIs e React Router para o gerenciamento de rotas. O código-fonte está disponível no <a href="https://github.com/JrValerio/portfolio-template-JrValerio" target="_blank">GitHub</a>, e o projeto está hospedado na plataforma <a href="https://portfolio-template-jr-valerio.vercel.app/" target="_blank">Vercel</a>.</p>
 </td>
+  </tr> 
+   <tr>
+   <td valign="top" width="50%">
+    <h2 align="center"><a href="https://github.com/JrValerio/Control-Finance-React-TailWind">Control Finance</a></h2>
+    <a href="https://control-finance-react-tail-wind.vercel.app/">
+        <img width="100%" height="20%" src="https://raw.githubusercontent.com/JrValerio/Control-Finance-React-TailWind/main/src/assets/Control%20Finance.png" alt="Visualização do Projeto - Control Finance" />
+    </a>
+    <br>
+    <br>
+    <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> React, Tailwind CSS, JavaScript</em></p>
+    <p>Control Finance é uma aplicação web desenvolvida com React e estilizada com Tailwind CSS, destinada ao gerenciamento de finanças pessoais. A interface permite ao usuário registrar entradas e saídas financeiras, visualizar o saldo total e filtrar transações por tipo. O projeto é uma demonstração de habilidades em desenvolvimento front-end e gerenciamento de estado em React. O código-fonte está disponível no <a href="https://github.com/JrValerio/Control-Finance-React-TailWind" target="_blank">GitHub</a>.</p>
+</td>
+
 
   </tr> 
 </table>
