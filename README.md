@@ -162,9 +162,28 @@ function contatcMe() {
     <br>
     <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> HTML, CSS, JavaScript, Dark Mode, Responsive Design, CSS Animations</em></p>
     <p>Desafio da Kenzie Academy Brasil: Open Music. Este projeto envolve a criação de uma aplicação web para a exploração de música e álbuns. O desafio é desenvolver uma interface intuitiva e responsiva, que inclui a funcionalidade de dark mode e animações CSS para uma experiência de usuário aprimorada. O objetivo principal é aplicar habilidades de programação frontend para criar uma aplicação interativa e visualmente atraente. O projeto foi desenvolvido com foco na responsividade e na experiência do usuário, especialmente em dispositivos móveis. O código-fonte está disponível no <a href="https://github.com/JrValerio/open-music" target="_blank">GitHub</a>.</p>
+</td>  
+  </tr> 
+   <tr>
+    <td valign="top" width="50%">
+    <h2 align="center"><a href="https://github.com/JrValerio/template-hamburgueria">Hamburgueria Kenzie</a></h2>
+    <a href="https://template-hamburgueria-orcin.vercel.app/">
+        <img width="100%" height="20%" src="https://raw.githubusercontent.com/JrValerio/template-hamburgueria/main/src/assets/Hamburgueria%20-Page.png" alt="Visualização do Projeto - Hamburgueria Kenzie" />
+    </a>
+    <br>
+    <br>
+    <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> React, CSS (Sass), JavaScript, Axios, React Router</em></p>
+    <p>Este projeto é uma simulação de uma aplicação web para uma hamburgueria, desenvolvida utilizando o framework React. Ele incorpora uma interface interativa e responsiva, que permite aos usuários navegar pelo menu, adicionar itens ao carrinho de compras e visualizar o pedido final. Além disso, utiliza Axios para realizar requisições HTTP a uma API simulada, e React Router para o gerenciamento de rotas. O código-fonte está disponível no <a href="https://github.com/JrValerio/template-hamburgueria" target="_blank">GitHub</a>.</p>
 </td>
 
-  </tr>
+    <td valign="top" width="50%">
+    <h2 align="center"><a href="https://github.com/JrValerio/open-music">Open Music</a></h2>
+    <a href="https://jrvalerio.github.io/open-music/"><img width="100%" src="https://raw.githubusercontent.com/JrValerio/open-music/main/src/assets/img/Open%20Music.png" alt="Open Music Project Preview" /></a>
+    <br>
+    <br>
+    <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> HTML, CSS, JavaScript, Dark Mode, Responsive Design, CSS Animations</em></p>
+    <p>Desafio da Kenzie Academy Brasil: Open Music. Este projeto envolve a criação de uma aplicação web para a exploração de música e álbuns. O desafio é desenvolver uma interface intuitiva e responsiva, que inclui a funcionalidade de dark mode e animações CSS para uma experiência de usuário aprimorada. O objetivo principal é aplicar habilidades de programação frontend para criar uma aplicação interativa e visualmente atraente. O projeto foi desenvolvido com foco na responsividade e na experiência do usuário, especialmente em dispositivos móveis. O código-fonte está disponível no <a href="https://github.com/JrValerio/open-music" target="_blank">GitHub</a>.</p>
+</td>  
   </tr> 
 </table>
 
