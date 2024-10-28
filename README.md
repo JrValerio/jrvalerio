@@ -7,17 +7,29 @@
 
 ```JavaScript
 const aboutMe = {
-  name: 'Amaro Júnior',
-  age: '42 years old';
-  softSkills: [
-    'creativity',
-    'leadership',
-    'organization'
-  ]
+ name: 'Amaro Júnior',
+  age: '43 years old',
+  location: 'Atibaia, São Paulo, Brazil',
+  interests: ['web development', 'AI', 'books', 'movies',
+             'running', 'philosophy'],
+  hardSkills: [
+    'JavaScript',
+    'React.js',
+    'Next.js',
+    'Node.js',
+    'Express.js',
+    'Tailwind CSS',
+    'TypeScript'
+  ],
 };
 
-function contatcMe() {
-  return 'Linkedin: https://www.linkedin.com/in/jrvalerio/';
+function contactMe() {
+  return {
+    linkedin: 'https://www.linkedin.com/in/jrvalerio/',
+    email: 'amarovsjr81@gmail.com',
+    github: 'https://github.com/jrvalerio',
+    twitter: 'https://www.twitter.com/avsjr81'
+  };
 }
 ```
 
