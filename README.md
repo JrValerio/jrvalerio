@@ -63,7 +63,7 @@ function contatcMe() {
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aboreto&size=35&pause=1000&color=00bfbf&width=600&lines=Main+Projects)](https://git.io/typing-svg)
 <table>  
-   <tr>
+  <tr>
    <td valign="top" width="50%">
     <h2 align="center"><a href="https://github.com/JrValerio/Control-Finance-React-TailWind">Control Finance</a></h2>
     <a href="https://control-finance-react-tail-wind.vercel.app/">
@@ -75,15 +75,33 @@ function contatcMe() {
     <p>Control Finance é uma aplicação web desenvolvida com React e estilizada com Tailwind CSS, destinada ao gerenciamento de finanças pessoais. A interface permite ao usuário registrar entradas e saídas financeiras, visualizar o saldo total e filtrar transações por tipo. O projeto é uma demonstração de habilidades em desenvolvimento front-end e gerenciamento de estado em React. O código-fonte está disponível no <a href="https://github.com/JrValerio/Control-Finance-React-TailWind" target="_blank">GitHub</a>.</p>
 </td>
 <td valign="top" width="50%">
-    <h2 align="center"><a href="https://github.com/JrValerio/Control-Finance-React-TailWind">Control Finance</a></h2>
-    <a href="https://control-finance-react-tail-wind.vercel.app/">
-        <img width="100%" height="20%" src="https://raw.githubusercontent.com/JrValerio/Control-Finance-React-TailWind/main/src/assets/Control%20Finance.png" alt="Visualização do Projeto - Control Finance" />
-    </a>
-    <br>
-    <br>
-    <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> React, Tailwind CSS, JavaScript</em></p>
-    <p>Control Finance é uma aplicação web desenvolvida com React e estilizada com Tailwind CSS, destinada ao gerenciamento de finanças pessoais. A interface permite ao usuário registrar entradas e saídas financeiras, visualizar o saldo total e filtrar transações por tipo. O projeto é uma demonstração de habilidades em desenvolvimento front-end e gerenciamento de estado em React. O código-fonte está disponível no <a href="https://github.com/JrValerio/Control-Finance-React-TailWind" target="_blank">GitHub</a>.</p>
-</td>
+  <h2 align="center"><a href="https://github.com/JrValerio/newsportal">News Portal</a></h2>
+  <a href="https://jrvalerio.github.io/newsportal/">
+    <img width="100%" height="20%" src="https://github.com/JrValerio/newsportal/blob/main/assets/Screenshot%20News%20Portal.png?raw=true" alt="Visualização do Projeto - News Portal" />
+  </a>
+  <br><br>
+  <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> HTML5, CSS3 (Flexbox, Grid)</em></p>
+  <p>News Portal é um portal de notícias de tecnologia desenvolvido para demonstrar a capacidade de criar layouts modernos utilizando CSS Flexbox e Grid. O projeto é totalmente responsivo e inclui variáveis CSS e pseudo-elementos para melhor design.</p>
+</td>  
+   <tr>
+  <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/JrValerio/travelgram">Travelgram</a></h2>
+      <a href="https://jrvalerio.github.io/travelgram/">
+        <img width="100%" height="20%" src="https://github.com/JrValerio/travelgram/blob/main/assets/Screenshot%20Travelgram.png?raw=true" alt="Visualização do Projeto - Travelgram" />
+      </a>
+      <br><br>
+      <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> HTML5, CSS3, Google Fonts</em></p>
+      <p>Travelgram é uma rede social onde usuários compartilham fotos e memórias de viagens. Com um design moderno e responsivo, oferece uma galeria de fotos em grade e navegação intuitiva, proporcionando uma ótima experiência em dispositivos móveis.</p>
+    </td>
+<td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/JrValerio/Portfolio-Dev">Portfolio Dev</a></h2>
+      <a href="https://jrvalerio.github.io/Portfolio-Dev/">
+        <img width="100%" height="20%" src="https://github.com/JrValerio/Portfolio-Dev/blob/main/assets/Screenshot%20Portifolio%20DEV.png?raw=true" alt="Visualização do Projeto - Portfolio Dev" />
+      </a>
+      <br><br>
+      <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> HTML5, CSS3</em></p>
+      <p>Portfolio Dev é um site de portfólio responsivo que destaca projetos e habilidades. Apresenta links para projetos destacados e uma seção de contato, demonstrando conhecimentos em design responsivo e práticas modernas de desenvolvimento.</p>
+    </td>
   </tr>
 <tr>
    <td valign="top" width="50%">
