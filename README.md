@@ -206,57 +206,41 @@ function contatcMe() {
 <tr>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/JrValerio/Blog-Kenzie" target= "_blank">S3-07 | 💪 Atividade: Blog com Flexbox</a></h2>
-      <a href="https://jrvalerio.github.io/Blog-Kenzie/" target= "_blank">Project-preview</a>
+      <a href="https://jrvalerio.github.io/Blog-Kenzie/" target= "_blank"><img width="100%" height="20%" src="https://raw.githubusercontent.com/JrValerio/Blog-Kenzie/852456f2e44b1d5b8db7d0aa20a990709d674761/Screenshot%20Blog.png" alt="Visualização do Projeto - Blog Kenzie" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS</em></p>      
       <p>Atividade do curso Desenvolvedor Fullstack. - O objetivo da atividade era exercitar o conhecimento em CSS. Criei uma interface de um blog, utilizando Grid Layout e Flex Box.</p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/JrValerio/Barbearia-Web" target= "_blank">Entrega 5 | 🏁 Barbearia Web</a></h2>
-      <a href="https://jrvalerio.github.io/Barbearia-Web/" target= "_blank">Project-preview</a>
+      <h2 align="center"><a href="https://github.com/JrValerio/KenzieFlix" target= "_blank">Entrega 2 | 🏁 Interface KenzieFlix</a></h2>
+      <a href="https://jrvalerio.github.io/KenzieFlix/" target= "_blank"><img width="100%" height="20%" src="https://github.com/JrValerio/KenzieFlix/blob/master/img/Screenshot%20KenzieFlix.png?raw=true" alt="Visualização do Projeto - KenzieFlix" /></a>
       <br>
       <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong>  JavaScript</em></p>      
-      <p>Quinta entrega do curso Desenvolvedor Fullstack - Esse projeto simula a contratação de um clientes que é barbeiro e com uma alta demanda de serviços ele me contrata para desenvolver um sistema onde           o cliente poderá realizar uma série de ações, como: buscar corte e barba, consultar se a barbearia está aberta ou fechada, orçar um pedido, entre outros.</p>
-    </td>    
+      <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS</em></p>      
+      <p>Segunda entrega do curso Desenvolvedor Fullstack. - O objetivo do projeto era reproduzir a interface de um aplicativo de streaming.</p>
+    </td> 
   </tr>
+ 
 <tr>
-    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/JrValerio/Pedra-Papel-Tesoura" target= "_blank">Entrega 3 | 🏁 Pedra Papel Tesoura</a></h2>
-      <a href="https://jrvalerio.github.io/Pedra-Papel-Tesoura/" target= "_blank">Project-preview</a>
-      <br>
-      <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong> JavaScript</em></p>      
-      <p>Terceira entrega do curso Desenvolvedor Fullstack. - O objetivo do projeto era implementar uma função chamada <strong>playRockPaperScissor</strong> que recebe dois parâmetros: player1 e player2.,               ambos são strings entre as possibilidades "Pedra", "Papel" e "Tesoura". Essa função deverá simular o jogo entre dois jogadores.</p>
-    </td>
-    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/JrValerio/palindromo-min-max" target= "_blank">Entrega 4 | 🏁 Palíndromo e Min Max</a></h2>
-      <a href="https://jrvalerio.github.io/palindromo-min-max/" target= "_blank">Project-preview</a>
-      <br>
-      <br>
-      <p><em><strong>:wrench: Tools/Methodologies:</strong>  JavaScript</em></p>      
-      <p>Quarta entrega do curso Desenvolvedor Fullstack - Esse projeto envolve o desenvolvimento de duas funções, <strong>isPalindrome e arrayMaxMin</strong>, utilizando loop <strong>for</strong> e                   <strong>array</strong>.</p>
-    </td>
-  </tr>  
-<tr>
-    <td valign="top" width="50%">
+  <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/JrValerio/BlogKenzie" target= "_blank">Entrega 1 | 🏁 Blog Kenzie </a></h2>
-      <a href="https://jrvalerio.github.io/BlogKenzie/" target= "_blank">Project-preview</a>
+      <a href="https://jrvalerio.github.io/BlogKenzie/" target= "_blank"><img width="100%" height="20%" src="https://github.com/JrValerio/BlogKenzie/blob/master/ScreenshotBlog%20Kenzie.png?raw=true" alt="Visualização do Projeto - Blog Kenzie" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS</em></p>      
       <p>Primeira entrega do curso Desenvolvedor Fullstack. - O objetivo desse projeto era criar um blog com um compilado de artigos com links para endereços externos. Ao clicar no post, o usuário será               levado para outro site e visualizará o artigo completo. Após os posts, teremos um formulário solicitando de cadastro do usuário.</p>
-    </td>
-    <td valign="top" width="50%">
+    </td>   
+    
+<!--     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/JrValerio/KenzieFlix" target= "_blank">Entrega 2 | 🏁 Interface KenzieFlix</a></h2>
-      <a href="https://jrvalerio.github.io/KenzieFlix/" target= "_blank">Project-preview</a>
+      <a href="https://jrvalerio.github.io/KenzieFlix/" target= "_blank"><img width="100%" height="20%" src="https://github.com/JrValerio/KenzieFlix/blob/master/img/Screenshot%20KenzieFlix.png?raw=true" alt="Visualização do Projeto - KenzieFlix" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS</em></p>      
       <p>Segunda entrega do curso Desenvolvedor Fullstack. - O objetivo do projeto era reproduzir a interface de um aplicativo de streaming.</p>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 <hr />
