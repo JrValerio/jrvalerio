@@ -60,7 +60,7 @@ function contactMe() {
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40" title="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" title="Next.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" title="Node.js"/>   
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" title="Python"/>
+<!--   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" title="Python"/> -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40" title="Tailwind CSS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40" title="SASS"/>
