@@ -185,8 +185,7 @@ function contactMe() {
     <br>
     <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> React, React Router Dom, Axios, React Hook Form, Zod, SASS, React Icons</em></p>
     <p>Kenzie Hub é uma aplicação web desenvolvida como parte do programa de treinamento da Kenzie Academy. O projeto visa fornecer uma plataforma onde os alunos podem registrar e acompanhar suas habilidades adquiridas ao longo do curso. Utiliza tecnologias modernas como React, React Hook Form para gerenciamento de formulários e validação com Zod, além de SASS para estilização. O código-fonte está disponível no <a href="https://github.com/JrValerio/Kenzie-Hub" target="_blank">GitHub</a>.</p>
-</td>
-   <tr>
+</td> 
     <td valign="top" width="50%">
     <h2 align="center"><a href="https://github.com/JrValerio/site-institucional-generico">Site Institucional Genérico</a></h2>
     <a href="https://jrvalerio.github.io/site-institucional-generico/">
@@ -196,7 +195,7 @@ function contactMe() {
     <br>
     <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> HTML, CSS, JavaScript, Design Responsivo, Media Queries</em></p>
     <p>Este projeto é um exemplo de site institucional desenvolvido com foco em práticas modernas de desenvolvimento web. Ele incorpora um design responsivo, adaptando-se perfeitamente a diferentes tamanhos de tela e dispositivos. Utilizando HTML, CSS e JavaScript, o site apresenta uma interface intuitiva e atrativa. Destaca-se o uso eficaz de Media Queries e a função CSS 'clamp()' para garantir uma experiência de usuário fluida e acessível. O código-fonte está disponível no <a href="https://github.com/JrValerio/site-institucional-generico" target="_blank">GitHub</a>.</p>
-</td>
+</td> 
   </tr> 
 <tr>
     <td valign="top" width="50%">
