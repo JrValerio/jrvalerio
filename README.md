@@ -208,7 +208,7 @@ function contactMe() {
 </td>  
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/JrValerio/buscadorcep">Buscador de CEP</a></h2>
-      <a href="https://buscadorcep-3qzvzd239-amaro-juniors-projects.vercel.app/"><img width="100%" height="20%" src="https://raw.githubusercontent.com/JrValerio/buscadorcep/main/Buscador%20CEP.png" alt="Project-preview" /></a>
+      <a href="https://buscadorcep-3qzvzd239-amaro-juniors-projects.vercel.app/"><img width="100%" src="https://raw.githubusercontent.com/JrValerio/buscadorcep/main/Buscador%20CEP.png" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> JavaScript, HTML, CSS, Styled Components, React JS, Axios (para chamadas API)</em></p>
@@ -226,7 +226,7 @@ function contactMe() {
   </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/JrValerio/Fylo">Fylo landing page with two column layout</a></h2>
-      <a href="https://jrvalerio.github.io/Fylo/"><img width="100%" height="20%" src="https://raw.githubusercontent.com/JrValerio/jrvalerio/main/desktop-preview.jpg" alt="Project-preview" /></a>
+      <a href="https://jrvalerio.github.io/Fylo/"><img width="100%" src="https://raw.githubusercontent.com/JrValerio/jrvalerio/main/desktop-preview.jpg" alt="Project-preview" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS, Styled Components, Mobile First</em></p>
@@ -244,7 +244,7 @@ function contactMe() {
     </td>
      <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/JrValerio/Blog-Kenzie" target= "_blank">S3-07 | 💪 Atividade: Blog com Flexbox</a></h2>
-      <a href="https://jrvalerio.github.io/Blog-Kenzie/" target= "_blank"><img width="100%" height="20%" src="https://raw.githubusercontent.com/JrValerio/Blog-Kenzie/852456f2e44b1d5b8db7d0aa20a990709d674761/Screenshot%20Blog.png" alt="Visualização do Projeto - Blog Kenzie" /></a>
+      <a href="https://jrvalerio.github.io/Blog-Kenzie/" target= "_blank"><img width="100%" src="https://raw.githubusercontent.com/JrValerio/Blog-Kenzie/852456f2e44b1d5b8db7d0aa20a990709d674761/Screenshot%20Blog.png" alt="Visualização do Projeto - Blog Kenzie" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS</em></p>      
@@ -255,7 +255,7 @@ function contactMe() {
 <tr>
   <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/JrValerio/KenzieFlix" target= "_blank">Entrega 2 | 🏁 Interface KenzieFlix</a></h2>
-      <a href="https://jrvalerio.github.io/KenzieFlix/" target= "_blank"><img width="100%" height="20%" src="https://github.com/JrValerio/KenzieFlix/blob/master/img/Screenshot%20KenzieFlix.png?raw=true" alt="Visualização do Projeto - KenzieFlix" /></a>
+      <a href="https://jrvalerio.github.io/KenzieFlix/" target= "_blank"><img width="100%" src="https://github.com/JrValerio/KenzieFlix/blob/master/img/Screenshot%20KenzieFlix.png?raw=true" alt="Visualização do Projeto - KenzieFlix" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS</em></p>      
@@ -264,7 +264,7 @@ function contactMe() {
     
 <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/JrValerio/BlogKenzie" target= "_blank">Entrega 1 | 🏁 Blog Kenzie </a></h2>
-      <a href="https://jrvalerio.github.io/BlogKenzie/" target= "_blank"><img width="100%" height="20%" src="https://github.com/JrValerio/BlogKenzie/blob/master/ScreenshotBlog%20Kenzie.png?raw=true" alt="Visualização do Projeto - Blog Kenzie" /></a>
+      <a href="https://jrvalerio.github.io/BlogKenzie/" target= "_blank"><img width="100%" src="https://github.com/JrValerio/BlogKenzie/blob/master/ScreenshotBlog%20Kenzie.png?raw=true" alt="Visualização do Projeto - Blog Kenzie" /></a>
       <br>
       <br>
       <p><em><strong>:wrench: Tools/Methodologies:</strong> HTML, CSS</em></p>      
