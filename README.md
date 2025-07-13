@@ -94,7 +94,7 @@ function contactMe() {
    <td valign="top" width="50%">
     <h2 align="center"><a href="https://github.com/JrValerio/Control-Finance-React-TailWind">Control Finance</a></h2>
     <a href="https://control-finance-react-tail-wind.vercel.app/">
-        <img width="100%" height="20%" src="https://raw.githubusercontent.com/JrValerio/Control-Finance-React-TailWind/main/src/assets/Control%20Finance.png" alt="Visualização do Projeto - Control Finance" />
+        <img width="100%" src="https://raw.githubusercontent.com/JrValerio/Control-Finance-React-TailWind/main/src/assets/Control%20Finance.png" alt="Visualização do Projeto - Control Finance" />
     </a>
     <br>
     <br>
@@ -104,7 +104,7 @@ function contactMe() {
 <td valign="top" width="50%">
     <h2 align="center"><a href="https://github.com/JrValerio/postit">Post-it Share App 📝</a></h2>
     <a href="https://postit-8nii.onrender.com/">
-        <img width="100%" height="20%" src="https://github.com/JrValerio/postit/blob/main/public/assets/postit.png?raw=true" alt="Visualização do Projeto - Post-it Share App" />
+        <img width="100%" src="https://github.com/JrValerio/postit/blob/main/public/assets/postit.png?raw=true" alt="Visualização do Projeto - Post-it Share App" />
     </a>
     <br>
     <br>
@@ -116,7 +116,7 @@ function contactMe() {
  <td valign="top" width="50%">
   <h2 align="center"><a href="https://github.com/JrValerio/newsportal">News Portal</a></h2>
   <a href="https://jrvalerio.github.io/newsportal/">
-    <img width="100%" height="20%" src="https://github.com/JrValerio/newsportal/blob/main/assets/Screenshot%20News%20Portal.png?raw=true" alt="Visualização do Projeto - News Portal" />
+    <img width="100%" src="https://github.com/JrValerio/newsportal/blob/main/assets/Screenshot%20News%20Portal.png?raw=true" alt="Visualização do Projeto - News Portal" />
   </a>
   <br><br>
   <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> HTML5, CSS3 (Flexbox, Grid)</em></p>
@@ -125,7 +125,7 @@ function contactMe() {
  <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/JrValerio/travelgram">Travelgram</a></h2>
       <a href="https://jrvalerio.github.io/travelgram/">
-        <img width="100%" height="20%" src="https://github.com/JrValerio/travelgram/blob/main/assets/Screenshot%20Travelgram.png?raw=true" alt="Visualização do Projeto - Travelgram" />
+        <img width="100%" src="https://github.com/JrValerio/travelgram/blob/main/assets/Screenshot%20Travelgram.png?raw=true" alt="Visualização do Projeto - Travelgram" />
       </a>
       <br><br>
       <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> HTML5, CSS3, Google Fonts</em></p>
@@ -136,7 +136,7 @@ function contactMe() {
    <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/JrValerio/Portfolio-Dev">Portfolio Dev</a></h2>
       <a href="https://jrvalerio.github.io/Portfolio-Dev/">
-        <img width="100%" height="20%" src="https://github.com/JrValerio/Portfolio-Dev/blob/main/assets/Screenshot%20Portifolio%20DEV.png?raw=true" alt="Visualização do Projeto - Portfolio Dev" />
+        <img width="100%" src="https://github.com/JrValerio/Portfolio-Dev/blob/main/assets/Screenshot%20Portifolio%20DEV.png?raw=true" alt="Visualização do Projeto - Portfolio Dev" />
       </a>
       <br><br>
       <p><em><strong>:wrench: Ferramentas/Metodologias:</strong> HTML5, CSS3</em></p>
@@ -145,7 +145,7 @@ function contactMe() {
  <td valign="top" width="50%">
     <h2 align="center"><a href="https://github.com/JrValerio/decodificador-de-textos">Decodificador de Textos</a></h2>
     <a href="https://jrvalerio.github.io/decodificador-de-textos/">
-      <img width="100%" height="20%" src="https://raw.githubusercontent.com/JrValerio/decodificador-de-textos/72734b41fa558d07675949a683b1e7d08d07d563/assets/img/Decodificador%20de%20Textos.png" alt="Visualização do Projeto - Decodificador de Textos" />
+      <img width="100%" src="https://raw.githubusercontent.com/JrValerio/decodificador-de-textos/72734b41fa558d07675949a683b1e7d08d07d563/assets/img/Decodificador%20de%20Textos.png" alt="Visualização do Projeto - Decodificador de Textos" />
     </a>
     <br>
     <br>
@@ -157,7 +157,7 @@ function contactMe() {
    <td valign="top" width="50%">
   <h2 align="center"><a href="https://github.com/JrValerio/portfolio-template-JrValerio">Portfolio Template</a></h2>
   <a href="https://portfolio-template-jr-valerio.vercel.app/">
-    <img width="100%" height="5%" src="https://raw.githubusercontent.com/JrValerio/portfolio-template-JrValerio/main/src/assets/portfolio-template-JrValerio.png" alt="Visualização do Projeto - Portfolio Template" />
+    <img width="100%" src="https://raw.githubusercontent.com/JrValerio/portfolio-template-JrValerio/main/src/assets/portfolio-template-JrValerio.png" alt="Visualização do Projeto - Portfolio Template" />
   </a>
   <br>
   <br>
@@ -167,7 +167,7 @@ function contactMe() {
 <td valign="top" width="50%">
     <h2 align="center"><a href="https://github.com/JrValerio/template-hamburgueria">Hamburgueria Kenzie</a></h2>
     <a href="https://template-hamburgueria-orcin.vercel.app/">
-        <img width="100%" height="20%" src="https://raw.githubusercontent.com/JrValerio/template-hamburgueria/main/src/assets/Hamburgueria%20-Page.png" alt="Visualização do Projeto - Hamburgueria Kenzie" />
+        <img width="100%" src="https://raw.githubusercontent.com/JrValerio/template-hamburgueria/main/src/assets/Hamburgueria%20-Page.png" alt="Visualização do Projeto - Hamburgueria Kenzie" />
     </a>
     <br>
     <br>
@@ -179,7 +179,7 @@ function contactMe() {
     <td valign="top" width="50%">
     <h2 align="center"><a href="https://github.com/JrValerio/Kenzie-Hub">Kenzie Hub</a></h2>
     <a href="https://kenzie-hub-seven-blue.vercel.app/">
-        <img width="100%" height="20%" src="https://raw.githubusercontent.com/JrValerio/Kenzie-Hub/main/src/assets/Kenzie%20Hub.png" alt="Visualização do Projeto - Kenzie Hub" />
+        <img width="100%" src="https://raw.githubusercontent.com/JrValerio/Kenzie-Hub/main/src/assets/Kenzie%20Hub.png" alt="Visualização do Projeto - Kenzie Hub" />
     </a>
     <br>
     <br>
@@ -189,7 +189,7 @@ function contactMe() {
     <td valign="top" width="50%">
     <h2 align="center"><a href="https://github.com/JrValerio/site-institucional-generico">Site Institucional Genérico</a></h2>
     <a href="https://jrvalerio.github.io/site-institucional-generico/">
-        <img width="100%" height="20%" src="https://raw.githubusercontent.com/JrValerio/site-institucional-generico/main/src/assets/P%C3%A1gina%20Institucional%20Gen%C3%A9rica%20Preview.png" alt="Visualização do Projeto - Site Institucional Genérico" />
+        <img width="100%" src="https://raw.githubusercontent.com/JrValerio/site-institucional-generico/main/src/assets/P%C3%A1gina%20Institucional%20Gen%C3%A9rica%20Preview.png" alt="Visualização do Projeto - Site Institucional Genérico" />
     </a>
     <br>
     <br>
