@@ -62,8 +62,8 @@ const contactMe = {
       <a href="https://kenzie-hub-seven-blue.vercel.app/">
         <img src="assets/kenzie-hub.png" alt="Kenzie Hub preview" width="100%" height="220" />
       </a>
-      <p><strong>Descrição:</strong> Plataforma para cadastro e gestão de tecnologias estudadas, com foco em formulários, validação e fluxo autenticado.</p>
-      <p><strong>Stack:</strong> React, React Router Dom, Axios, React Hook Form, Zod, SASS</p>
+      <p><strong>Descrição:</strong> SPA para gestão de tecnologias com fluxo autenticado, rotas protegidas, formulários controlados e validação declarativa com React Hook Form + Zod, integrada a API REST via Axios.</p>
+      <p><strong>Stack:</strong> React, React Router DOM, Axios, React Hook Form, Zod, SASS</p>
       <p>🔗 <a href="https://github.com/JrValerio/Kenzie-Hub">Repo</a> | 🌐 <a href="https://kenzie-hub-seven-blue.vercel.app/">Demo</a></p>
     </td>
     <td width="50%" valign="top">
@@ -71,7 +71,7 @@ const contactMe = {
       <a href="https://control-finance-react-tail-wind.vercel.app/">
         <img src="assets/control-finance.png" alt="Control Finance preview" width="100%" height="220" />
       </a>
-      <p><strong>Descrição:</strong> Aplicação de finanças pessoais para lançar entradas e saídas, acompanhar saldo e filtrar transações por categoria.</p>
+      <p><strong>Descrição:</strong> Frontend React para controle de transações com estado local previsível, filtros determinísticos por tipo e cálculo de saldo em tempo real.</p>
       <p><strong>Stack:</strong> React, Tailwind CSS, JavaScript</p>
       <p>🔗 <a href="https://github.com/JrValerio/Control-Finance-React-TailWind">Repo</a> | 🌐 <a href="https://control-finance-react-tail-wind.vercel.app/">Demo</a></p>
     </td>
@@ -82,7 +82,7 @@ const contactMe = {
       <a href="https://postit-8nii.onrender.com/">
         <img src="assets/postit-share-app.png" alt="Post-it Share App preview" width="100%" height="220" />
       </a>
-      <p><strong>Descrição:</strong> App minimalista para criar notas curtas, gerar links compartilháveis e publicar recados de forma simples e rápida.</p>
+      <p><strong>Descrição:</strong> Aplicação full-stack enxuta com Express + SQLite, rotas HTTP para criação e leitura de notas e atualização parcial da interface via HTMX.</p>
       <p><strong>Stack:</strong> Node.js, Express, SQLite, HTMX, ESLint, Prettier</p>
       <p>🔗 <a href="https://github.com/JrValerio/postit">Repo</a> | 🌐 <a href="https://postit-8nii.onrender.com/">Demo</a></p>
     </td>
@@ -91,7 +91,7 @@ const contactMe = {
       <a href="https://jrvalerio.github.io/newsportal/">
         <img src="assets/news-portal.png" alt="News Portal preview" width="100%" height="220" />
       </a>
-      <p><strong>Descrição:</strong> Portal de notícias de tecnologia com layout responsivo, explorando CSS Grid/Flexbox e boas práticas de composição visual.</p>
+      <p><strong>Descrição:</strong> Interface web estática e responsiva, estruturada com HTML semântico e composição de layout com CSS Grid/Flexbox em abordagem mobile-first.</p>
       <p><strong>Stack:</strong> HTML5, CSS3 (Flexbox e Grid)</p>
       <p>🔗 <a href="https://github.com/JrValerio/newsportal">Repo</a> | 🌐 <a href="https://jrvalerio.github.io/newsportal/">Demo</a></p>
     </td>
