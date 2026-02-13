@@ -9,6 +9,7 @@ const aboutMe = {
   name: "Amaro Júnior",
   location: "Atibaia, São Paulo, Brazil",
   interests: ["web development", "AI", "books", "movies", "running", "philosophy"],
+  goal: "Junior / Internship opportunities (Front-end or Full Stack)",
   hardSkills: ["JavaScript", "React.js", "Next.js", "Node.js", "Express.js", "Tailwind CSS", "TypeScript"],
 };
 
@@ -26,12 +27,12 @@ const contactMe = {
 ## 🔗 Connect with me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jrvalerio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:amarovsjr81@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/jrvalerio" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23111111?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://instagram.com/jrvalerioo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.twitter.com/avsjr81" target="_blank"><img src="https://img.shields.io/badge/-X-%23000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://www.youtube.com/@avsjr" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jrvalerio"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:amarovsjr81@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/jrvalerio"><img src="https://img.shields.io/badge/-GitHub-%23111111?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://instagram.com/jrvalerioo"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.twitter.com/avsjr81"><img src="https://img.shields.io/badge/-X-%23000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.youtube.com/@avsjr"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
 ---
@@ -45,11 +46,9 @@ const contactMe = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript" alt="TypeScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java" alt="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" title="React" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" width="40" height="40" title="React Router DOM" alt="React Router DOM"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" alt="Node.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" title="Express" alt="Express"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" title="SQLite" alt="SQLite"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" width="40" height="40" title="Axios" alt="Axios"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" title="Sass" alt="Sass"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" title="Tailwind CSS" alt="Tailwind CSS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40" height="40" title="Vite" alt="Vite"/>
@@ -57,8 +56,11 @@ const contactMe = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git" alt="Git"/>
 </div>
 
-<p><strong>Core recorrente:</strong> JavaScript, TypeScript, HTML5, CSS3, React, React Router DOM, Node.js, Express, SQLite, Axios, Sass, Tailwind CSS, Vite, ESLint e Git.</p>
-<p><strong>Validação e qualidade:</strong> Zod e Prettier.</p>
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+<p><strong>Recurring core stack:</strong> JavaScript, TypeScript, HTML5, CSS3, React, React Router DOM, Node.js, Express, SQLite, Axios, Sass, Tailwind CSS, Vite, ESLint, and Git.</p>
+<p><strong>Validation and code quality:</strong> Zod and Prettier.</p>
 
 ---
 
@@ -69,18 +71,18 @@ const contactMe = {
     <td width="50%" valign="top">
       <h3>✅ Kenzie Hub</h3>
       <a href="https://kenzie-hub-seven-blue.vercel.app/">
-        <img src="assets/kenzie-hub.png" alt="Kenzie Hub preview" width="100%" height="220" />
+        <img src="assets/kenzie-hub.png" alt="Kenzie Hub preview" width="100%" />
       </a>
-      <p><strong>Descrição:</strong> SPA para gestão de tecnologias com fluxo autenticado, rotas protegidas, formulários controlados e validação declarativa com React Hook Form + Zod, integrada a API REST via Axios.</p>
+      <p><strong>Description:</strong> SPA for technology management with authenticated flow, protected routes, controlled forms, and declarative validation using React Hook Form + Zod, integrated with a REST API via Axios.</p>
       <p><strong>Stack:</strong> React, React Router DOM, Axios, React Hook Form, Zod, SASS</p>
       <p>🔗 <a href="https://github.com/JrValerio/Kenzie-Hub">Repo</a> | 🌐 <a href="https://kenzie-hub-seven-blue.vercel.app/">Demo</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>✅ Control Finance</h3>
       <a href="https://control-finance-react-tail-wind.vercel.app/">
-        <img src="assets/control-finance.png" alt="Control Finance preview" width="100%" height="220" />
+        <img src="assets/control-finance.png" alt="Control Finance preview" width="100%" />
       </a>
-      <p><strong>Descrição:</strong> Frontend React para controle de transações com estado local previsível, filtros determinísticos por tipo e cálculo de saldo em tempo real.</p>
+      <p><strong>Description:</strong> React frontend for transaction tracking with predictable local state, deterministic filtering by type, and real-time balance calculation.</p>
       <p><strong>Stack:</strong> React, Tailwind CSS, JavaScript</p>
       <p>🔗 <a href="https://github.com/JrValerio/Control-Finance-React-TailWind">Repo</a> | 🌐 <a href="https://control-finance-react-tail-wind.vercel.app/">Demo</a></p>
     </td>
@@ -89,19 +91,19 @@ const contactMe = {
     <td width="50%" valign="top">
       <h3>✅ Post-it Share App 📝</h3>
       <a href="https://postit-8nii.onrender.com/">
-        <img src="assets/postit-share-app.png" alt="Post-it Share App preview" width="100%" height="220" />
+        <img src="assets/postit-share-app.png" alt="Post-it Share App preview" width="100%" />
       </a>
-      <p><strong>Descrição:</strong> Aplicação full-stack enxuta com Express + SQLite, rotas HTTP para criação e leitura de notas e atualização parcial da interface via HTMX.</p>
+      <p><strong>Description:</strong> Lean full-stack app built with Express + SQLite, exposing HTTP routes for note creation/retrieval and partial UI updates via HTMX.</p>
       <p><strong>Stack:</strong> Node.js, Express, SQLite, HTMX, ESLint, Prettier</p>
       <p>🔗 <a href="https://github.com/JrValerio/postit">Repo</a> | 🌐 <a href="https://postit-8nii.onrender.com/">Demo</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>✅ News Portal</h3>
       <a href="https://jrvalerio.github.io/newsportal/">
-        <img src="assets/news-portal.png" alt="News Portal preview" width="100%" height="220" />
+        <img src="assets/news-portal.png" alt="News Portal preview" width="100%" />
       </a>
-      <p><strong>Descrição:</strong> Interface web estática e responsiva, estruturada com HTML semântico e composição de layout com CSS Grid/Flexbox em abordagem mobile-first.</p>
-      <p><strong>Stack:</strong> HTML5, CSS3 (Flexbox e Grid)</p>
+      <p><strong>Description:</strong> Static responsive web interface structured with semantic HTML and layout composition using CSS Grid/Flexbox in a mobile-first approach.</p>
+      <p><strong>Stack:</strong> HTML5, CSS3 (Flexbox and Grid)</p>
       <p>🔗 <a href="https://github.com/JrValerio/newsportal">Repo</a> | 🌐 <a href="https://jrvalerio.github.io/newsportal/">Demo</a></p>
     </td>
   </tr>
@@ -119,7 +121,7 @@ const contactMe = {
 - Hamburgueria Kenzie: [github.com/JrValerio/template-hamburgueria](https://github.com/JrValerio/template-hamburgueria) | [template-hamburgueria-orcin.vercel.app](https://template-hamburgueria-orcin.vercel.app/)
 - Site Institucional: [github.com/JrValerio/site-institucional-generico](https://github.com/JrValerio/site-institucional-generico) | [jrvalerio.github.io/site-institucional-generico](https://jrvalerio.github.io/site-institucional-generico/)
 - Open Music: [github.com/JrValerio/open-music](https://github.com/JrValerio/open-music) | [jrvalerio.github.io/open-music](https://jrvalerio.github.io/open-music/)
-- Buscador CEP: [github.com/JrValerio/buscadorcep](https://github.com/JrValerio/buscadorcep) | (demo atualmente indisponível)
+- Buscador CEP: [github.com/JrValerio/buscadorcep](https://github.com/JrValerio/buscadorcep) | (demo currently unavailable)
 - Git Search: [github.com/JrValerio/gitSearchBase](https://github.com/JrValerio/gitSearchBase) | [jrvalerio.github.io/gitSearchBase/index.html](https://jrvalerio.github.io/gitSearchBase/index.html)
 - Fylo: [github.com/JrValerio/Fylo](https://github.com/JrValerio/Fylo) | [jrvalerio.github.io/Fylo](https://jrvalerio.github.io/Fylo/)
 - Profile Card: [github.com/JrValerio/Profile-card-component](https://github.com/JrValerio/Profile-card-component) | [jrvalerio.github.io/Profile-card-component](https://jrvalerio.github.io/Profile-card-component/)
@@ -141,7 +143,7 @@ const contactMe = {
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=jrvalerio&count_private=true&show_icons=true&theme=dracula" />
 <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrvalerio&theme=dracula&hide_border=false&layout=compact"/>
 
-> Obs: esses widgets podem oscilar (503/rate limit), então estão em seção opcional.
+> Note: these widgets may oscillate (503/rate limit), so they are kept in an optional section.
 
 </details>
 
