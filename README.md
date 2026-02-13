@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Amaro+Val%C3%A9rio+da+Silva+J%C3%BAnior;I+am+from+Atibaia,+SP,+Brazil;Full+Stack+Developer+building+scalable+web+applications+with+React,+Node.js+and+TypeScript.;Currently+seeking+Junior+%2F+Internship+opportunities.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Amaro+Val%C3%A9rio+da+Silva+J%C3%BAnior;I+am+from+Atibaia,+SP,+Brazil;Full+Stack+Developer+%7C+React,+Node.js,+TypeScript;Currently+seeking+Junior+%2F+Internship+opportunities)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="370px" align="right" alt="computer illustration" />
 
