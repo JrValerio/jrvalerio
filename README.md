@@ -55,42 +55,54 @@ const contactMe = {
 
 ## 🚀 Main Projects (top picks)
 
-### ✅ Kenzie Hub
-
-[![Kenzie Hub preview](assets/kenzie-hub.png)](https://kenzie-hub-seven-blue.vercel.app/)
-
-**Stack:** React, React Router Dom, Axios, React Hook Form, Zod, SASS
-
-🔗 Repo: [github.com/JrValerio/Kenzie-Hub](https://github.com/JrValerio/Kenzie-Hub)
-
-🌐 Demo: [kenzie-hub-seven-blue.vercel.app](https://kenzie-hub-seven-blue.vercel.app/)
-
-### ✅ Control Finance
-
-[![Control Finance preview](assets/control-finance.png)](https://control-finance-react-tail-wind.vercel.app/)
-
-**Stack:** React, Tailwind CSS, JavaScript
-
-🔗 Repo: [github.com/JrValerio/Control-Finance-React-TailWind](https://github.com/JrValerio/Control-Finance-React-TailWind)
-
-🌐 Demo: [control-finance-react-tail-wind.vercel.app](https://control-finance-react-tail-wind.vercel.app/)
-
-### ✅ Post-it Share App 📝
-
-[![Post-it Share App preview](assets/postit-share-app.png)](https://postit-8nii.onrender.com/)
-
-**Stack:** Node.js, Express, SQLite, HTMX, ESLint, Prettier
-
-🔗 Repo: [github.com/JrValerio/postit](https://github.com/JrValerio/postit)
-
-🌐 Demo: [postit-8nii.onrender.com](https://postit-8nii.onrender.com/)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✅ Kenzie Hub</h3>
+      <a href="https://kenzie-hub-seven-blue.vercel.app/">
+        <img src="assets/kenzie-hub.png" alt="Kenzie Hub preview" width="100%" height="220" />
+      </a>
+      <p><strong>Descrição:</strong> Plataforma para cadastro e gestão de tecnologias estudadas, com foco em formulários, validação e fluxo autenticado.</p>
+      <p><strong>Stack:</strong> React, React Router Dom, Axios, React Hook Form, Zod, SASS</p>
+      <p>🔗 <a href="https://github.com/JrValerio/Kenzie-Hub">Repo</a> | 🌐 <a href="https://kenzie-hub-seven-blue.vercel.app/">Demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✅ Control Finance</h3>
+      <a href="https://control-finance-react-tail-wind.vercel.app/">
+        <img src="assets/control-finance.png" alt="Control Finance preview" width="100%" height="220" />
+      </a>
+      <p><strong>Descrição:</strong> Aplicação de finanças pessoais para lançar entradas e saídas, acompanhar saldo e filtrar transações por categoria.</p>
+      <p><strong>Stack:</strong> React, Tailwind CSS, JavaScript</p>
+      <p>🔗 <a href="https://github.com/JrValerio/Control-Finance-React-TailWind">Repo</a> | 🌐 <a href="https://control-finance-react-tail-wind.vercel.app/">Demo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✅ Post-it Share App 📝</h3>
+      <a href="https://postit-8nii.onrender.com/">
+        <img src="assets/postit-share-app.png" alt="Post-it Share App preview" width="100%" height="220" />
+      </a>
+      <p><strong>Descrição:</strong> App minimalista para criar notas curtas, gerar links compartilháveis e publicar recados de forma simples e rápida.</p>
+      <p><strong>Stack:</strong> Node.js, Express, SQLite, HTMX, ESLint, Prettier</p>
+      <p>🔗 <a href="https://github.com/JrValerio/postit">Repo</a> | 🌐 <a href="https://postit-8nii.onrender.com/">Demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✅ News Portal</h3>
+      <a href="https://jrvalerio.github.io/newsportal/">
+        <img src="assets/news-portal.png" alt="News Portal preview" width="100%" height="220" />
+      </a>
+      <p><strong>Descrição:</strong> Portal de notícias de tecnologia com layout responsivo, explorando CSS Grid/Flexbox e boas práticas de composição visual.</p>
+      <p><strong>Stack:</strong> HTML5, CSS3 (Flexbox e Grid)</p>
+      <p>🔗 <a href="https://github.com/JrValerio/newsportal">Repo</a> | 🌐 <a href="https://jrvalerio.github.io/newsportal/">Demo</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <details>
   <summary><b>📦 More projects (archive)</b></summary>
 
-- News Portal: [github.com/JrValerio/newsportal](https://github.com/JrValerio/newsportal) | [jrvalerio.github.io/newsportal](https://jrvalerio.github.io/newsportal/)
 - Travelgram: [github.com/JrValerio/travelgram](https://github.com/JrValerio/travelgram) | [jrvalerio.github.io/travelgram](https://jrvalerio.github.io/travelgram/)
 - Portfolio Dev: [github.com/JrValerio/Portfolio-Dev](https://github.com/JrValerio/Portfolio-Dev) | [jrvalerio.github.io/Portfolio-Dev](https://jrvalerio.github.io/Portfolio-Dev/)
 - Decodificador de Textos: [github.com/JrValerio/decodificador-de-textos](https://github.com/JrValerio/decodificador-de-textos) | [jrvalerio.github.io/decodificador-de-textos](https://jrvalerio.github.io/decodificador-de-textos/)
