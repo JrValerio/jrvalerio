@@ -57,15 +57,17 @@ const contactMe = {
 
 ### ✅ Kenzie Hub
 
+[![Kenzie Hub preview](assets/kenzie-hub.png)](https://kenzie-hub-seven-blue.vercel.app/)
+
 **Stack:** React, React Router Dom, Axios, React Hook Form, Zod, SASS
 
 🔗 Repo: [github.com/JrValerio/Kenzie-Hub](https://github.com/JrValerio/Kenzie-Hub)
 
 🌐 Demo: [kenzie-hub-seven-blue.vercel.app](https://kenzie-hub-seven-blue.vercel.app/)
 
-> Screenshot em atualização para um asset estável no repositório de perfil.
-
 ### ✅ Control Finance
+
+[![Control Finance preview](assets/control-finance.png)](https://control-finance-react-tail-wind.vercel.app/)
 
 **Stack:** React, Tailwind CSS, JavaScript
 
@@ -74,6 +76,8 @@ const contactMe = {
 🌐 Demo: [control-finance-react-tail-wind.vercel.app](https://control-finance-react-tail-wind.vercel.app/)
 
 ### ✅ Post-it Share App 📝
+
+[![Post-it Share App preview](assets/postit-share-app.png)](https://postit-8nii.onrender.com/)
 
 **Stack:** Node.js, Express, SQLite, HTMX, ESLint, Prettier
 
