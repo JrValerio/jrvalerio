@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Amaro+Val%C3%A9rio+da+Silva+J%C3%BAnior;I+am+from+Atibaia,+SP,+Brazil;Full+Stack+Developer+%7C+React,+Node.js,+TypeScript;Currently+seeking+Junior+%2F+Internship+opportunities)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="370px" align="right" alt="computer illustration" />
+<img src="assets/computer-illustration.png" width="370px" style="float: right; margin-left: 1rem;" alt="computer illustration" />
 
 ```js
 const aboutMe = {
   name: "Amaro Júnior",
   location: "Atibaia, São Paulo, Brazil",
-  interests: ["web development", "AI", "books", "movies", "running", "philosophy"],
+  interests: ["web development", "LLM tooling", "books", "movies", "running", "philosophy"],
   goal: "Currently seeking Junior / Internship opportunities.",
   hardSkills: ["JavaScript", "React.js", "Next.js", "Node.js", "Express.js", "Tailwind CSS", "TypeScript"],
 };
@@ -89,7 +89,7 @@ const contactMe = {
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>Linux
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" /><br>jQuery
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker
     </td>
   </tr>
   <tr>
@@ -103,10 +103,16 @@ const contactMe = {
       <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /><br>Vite
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" width="48" height="48" alt="ESLint" /><br>ESLint
+      <img src="https://skillicons.dev/icons?i=eslint" width="48" height="48" alt="ESLint" /><br>ESLint
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" width="48" height="48" alt="React Router" /><br>React Router
+      <img src="https://skillicons.dev/icons?i=reactrouter" width="48" height="48" alt="React Router" /><br>React Router
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" /><br>Prisma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vitest" width="48" height="48" alt="Vitest" /><br>Vitest
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>Postman
@@ -114,8 +120,9 @@ const contactMe = {
   </tr>
 </table>
 
-<p><strong>Recurring core stack:</strong> JavaScript, TypeScript, HTML5, CSS3, React, React Router DOM, Next.js, Node.js, Express, SQLite, Axios, Sass, Tailwind CSS, Vite, ESLint, and Git.</p>
+<p><strong>Recurring core stack:</strong> JavaScript, TypeScript, HTML5, CSS3, React, React Router DOM, Next.js, Node.js, Express, SQLite, Prisma, Sass, Tailwind CSS, Vite, ESLint, Docker, and Git.</p>
 <p><strong>Validation and code quality:</strong> Zod and Prettier.</p>
+<p><strong>Also worked with:</strong> jQuery, Axios, React Hook Form, HTMX, shadcn/ui, Bun.</p>
 
 ---
 
