@@ -103,10 +103,10 @@ const contactMe = {
       <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /><br>Vite
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=eslint" width="48" height="48" alt="ESLint" /><br>ESLint
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" width="48" height="48" alt="ESLint" /><br>ESLint
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=reactrouter" width="48" height="48" alt="React Router" /><br>React Router
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" width="48" height="48" alt="React Router" /><br>React Router
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>Postman
