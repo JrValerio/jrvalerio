@@ -10,7 +10,7 @@ const aboutMe = {
   location: "Atibaia, São Paulo, Brazil",
   interests: ["web development", "LLM tooling", "books", "movies", "running", "philosophy"],
   goal: "Currently seeking Junior / Internship opportunities.",
-  hardSkills: ["JavaScript", "React.js", "Next.js", "Node.js", "Express.js", "Tailwind CSS", "TypeScript"],
+  hardSkills: ["TypeScript", "React", "Next.js", "Node.js", "Express", "Tailwind CSS", "PostgreSQL", "Docker", "Prisma", "Vitest"],
 };
 
 const contactMe = {
@@ -199,14 +199,5 @@ const contactMe = {
 
 ![snake gif](https://raw.githubusercontent.com/JrValerio/jrvalerio/output/github-contribution-grid-snake.svg)
 
-<details>
-  <summary><b>📊 GitHub Statistics (optional)</b></summary>
-
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=jrvalerio&count_private=true&show_icons=true&theme=dracula" />
-<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrvalerio&theme=dracula&hide_border=false&layout=compact"/>
-
-> Note: these widgets may oscillate (503/rate limit), so they are kept in an optional section.
-
-</details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
