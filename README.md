@@ -190,7 +190,7 @@ const contactMe = {
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/bitoller/bitoller/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/JrValerio/JrValerio/output/github-contribution-grid-snake.svg)
 
 <details>
   <summary><b>📊 GitHub Statistics (optional)</b></summary>
