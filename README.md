@@ -183,7 +183,6 @@ const contactMe = {
 - Hamburgueria Kenzie: [github.com/JrValerio/template-hamburgueria](https://github.com/JrValerio/template-hamburgueria) | [template-hamburgueria-orcin.vercel.app](https://template-hamburgueria-orcin.vercel.app/)
 - Site Institucional: [github.com/JrValerio/site-institucional-generico](https://github.com/JrValerio/site-institucional-generico) | [jrvalerio.github.io/site-institucional-generico](https://jrvalerio.github.io/site-institucional-generico/)
 - Open Music: [github.com/JrValerio/open-music](https://github.com/JrValerio/open-music) | [jrvalerio.github.io/open-music](https://jrvalerio.github.io/open-music/)
-- Buscador CEP: [github.com/JrValerio/buscadorcep](https://github.com/JrValerio/buscadorcep) | (demo currently unavailable)
 - Git Search: [github.com/JrValerio/gitSearchBase](https://github.com/JrValerio/gitSearchBase) | [jrvalerio.github.io/gitSearchBase/index.html](https://jrvalerio.github.io/gitSearchBase/index.html)
 - Fylo: [github.com/JrValerio/Fylo](https://github.com/JrValerio/Fylo) | [jrvalerio.github.io/Fylo](https://jrvalerio.github.io/Fylo/)
 - Profile Card: [github.com/JrValerio/Profile-card-component](https://github.com/JrValerio/Profile-card-component) | [jrvalerio.github.io/Profile-card-component](https://jrvalerio.github.io/Profile-card-component/)
