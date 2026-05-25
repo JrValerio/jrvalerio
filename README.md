@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Amaro+Val%C3%A9rio+da+Silva+J%C3%BAnior;I+am+from+Atibaia,+SP,+Brazil;Full+Stack+Developer+%7C+React,+Node.js,+TypeScript;Currently+seeking+Junior+%2F+Internship+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Amaro+Val%C3%A9rio+da+Silva+J%C3%BAnior;I+am+from+Atibaia,+SP,+Brazil;Full+Stack+Developer+%7C+React,+Node.js,+TypeScript;Open+to+mid-level+fullstack+roles+%7C+React,+Node.js,+TypeScript)](https://git.io/typing-svg)
 
 <img src="assets/computer-illustration.png" width="370px" style="float: right; margin-left: 1rem;" alt="computer illustration" />
 
@@ -9,7 +9,7 @@ const aboutMe = {
   name: "Amaro Júnior",
   location: "Atibaia, São Paulo, Brazil",
   interests: ["web development", "LLM tooling", "books", "movies", "running", "philosophy"],
-  goal: "Currently seeking Junior / Internship opportunities.",
+  goal: "Open to mid-level fullstack roles — React, Node.js, TypeScript.",
   hardSkills: ["TypeScript", "React", "Next.js", "Node.js", "Express", "Tailwind CSS", "PostgreSQL", "Docker", "Prisma", "Vitest"],
 };
 
