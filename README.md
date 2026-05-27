@@ -149,8 +149,8 @@ const contactMe = {
       <a href="https://control-finance-react-tail-wind.vercel.app/">
         <img src="assets/control-finance.png" alt="Control Finance preview" width="100%" />
       </a>
-      <p><strong>Description:</strong> React frontend for transaction tracking with predictable local state, deterministic filtering by type, and real-time balance calculation.</p>
-      <p><strong>Stack:</strong> React, Tailwind CSS, JavaScript</p>
+      <p><strong>Description:</strong> Personal finance platform with transaction management, CSV import/export, credit card and bill tracking, income sources, balance projection, and AI-powered financial analysis.</p>
+      <p><strong>Stack:</strong> React, TypeScript, Tailwind CSS</p>
       <p>🔗 <a href="https://github.com/JrValerio/Control-Finance-React-TailWind">Repo</a> | 🌐 <a href="https://control-finance-react-tail-wind.vercel.app/">Demo</a></p>
     </td>
   </tr>
