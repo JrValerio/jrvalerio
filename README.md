@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Amaro+Val%C3%A9rio+da+Silva+J%C3%BAnior;I+am+from+Atibaia,+SP,+Brazil;Full+Stack+Developer+%7C+React,+Node.js,+TypeScript;Open+to+mid-level+fullstack+roles+%7C+React,+Node.js,+TypeScript)](https://git.io/typing-svg)
 
-<img src="assets/computer-illustration.png" width="370px" style="float: right; margin-left: 1rem;" alt="computer illustration" />
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```js
 const aboutMe = {
@@ -22,6 +24,13 @@ const contactMe = {
 };
 ```
 
+</td>
+<td valign="top" width="40%" align="right">
+<img src="assets/computer-illustration.png" width="340px" alt="computer illustration" />
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🔗 Connect with me
@@ -31,7 +40,7 @@ const contactMe = {
   <a href="mailto:amarovsjr81@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/jrvalerio"><img src="https://img.shields.io/badge/-GitHub-%23111111?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://instagram.com/jrvalerioo"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.twitter.com/avsjr81"><img src="https://img.shields.io/badge/-X-%23000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.twitter.com/avsjr81"><img src="https://img.shields.io/badge/-X-%231DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://www.youtube.com/@avsjr"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
@@ -103,10 +112,10 @@ const contactMe = {
       <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /><br>Vite
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=eslint" width="48" height="48" alt="ESLint" /><br>ESLint
+      <img src="https://cdn.simpleicons.org/eslint/4B32C3" width="48" height="48" alt="ESLint" /><br>ESLint
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=reactrouter" width="48" height="48" alt="React Router" /><br>React Router
+      <img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="48" height="48" alt="React Router" /><br>React Router
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" /><br>Prisma
@@ -167,6 +176,37 @@ const contactMe = {
       <p><strong>Description:</strong> Static responsive web interface structured with semantic HTML and layout composition using CSS Grid/Flexbox in a mobile-first approach.</p>
       <p><strong>Stack:</strong> HTML5, CSS3 (Flexbox and Grid)</p>
       <p>🔗 <a href="https://github.com/JrValerio/newsportal">Repo</a> | 🌐 <a href="https://jrvalerio.github.io/newsportal/">Demo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✅ Portfolio Dev</h3>
+      <a href="https://jrvalerio.github.io/Portfolio-Dev/">
+        <img src="assets/portfolio-dev.png" alt="Portfolio Dev preview" width="100%" />
+      </a>
+      <p><strong>Description:</strong> Responsive developer portfolio with mobile-first layout, project showcase, and contact section — demonstrating CSS architecture and design system application.</p>
+      <p><strong>Stack:</strong> HTML5, CSS3, JavaScript</p>
+      <p>🔗 <a href="https://github.com/JrValerio/Portfolio-Dev">Repo</a> | 🌐 <a href="https://jrvalerio.github.io/Portfolio-Dev/">Demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✅ ADM Madureira Atibaia</h3>
+      <a href="https://www.admadureiraatibaia.com.br">
+        <img src="assets/admadureira-atibaia.png" alt="ADM Madureira Atibaia preview" width="100%" />
+      </a>
+      <p><strong>Description:</strong> Production institutional platform for Assembleia de Deus – Ministério Madureira | Atibaia — SSR with Next.js, fully typed, serving a live audience.</p>
+      <p><strong>Stack:</strong> Next.js, TypeScript, Tailwind CSS</p>
+      <p>🔗 <a href="https://github.com/JrValerio/admadureira-atibaia">Repo</a> | 🌐 <a href="https://www.admadureiraatibaia.com.br">Demo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" colspan="2">
+      <h3>✅ EcoVoz</h3>
+      <a href="https://eco-voz-b23q.vercel.app">
+        <img src="assets/ecovoz.png" alt="EcoVoz preview" width="100%" />
+      </a>
+      <p><strong>Description:</strong> AAC (Augmentative and Alternative Communication) platform with gesture recognition via MediaPipe, adaptive trigram language model for phrase prediction, Stripe billing with 14-day trial, and LGPD compliance — full-stack monorepo targeting the Brazilian assistive tech market.</p>
+      <p><strong>Stack:</strong> React, TypeScript, Node.js, Express, FastAPI, Python, MediaPipe, Tailwind CSS, MongoDB, Docker</p>
+      <p>🔗 <a href="https://github.com/JrValerio/EcoVoz">Repo</a> | 🌐 <a href="https://eco-voz-b23q.vercel.app">Demo</a></p>
     </td>
   </tr>
 </table>
