@@ -5,9 +5,7 @@
 <table>
 <tr>
 <td valign="top" width="60%">
-
-```js
-const aboutMe = {
+<pre><code class="language-js">const aboutMe = {
   name: "Amaro Júnior",
   location: "Atibaia, São Paulo, Brazil",
   interests: ["web development", "LLM tooling", "books", "movies", "running", "philosophy"],
@@ -21,9 +19,7 @@ const contactMe = {
   github: "https://github.com/jrvalerio",
   x: "https://www.twitter.com/avsjr81",
   youtube: "https://www.youtube.com/@avsjr",
-};
-```
-
+};</code></pre>
 </td>
 <td valign="top" width="40%" align="right">
 <img src="assets/computer-illustration.png" width="340px" alt="computer illustration" />
