@@ -180,13 +180,13 @@ const contactMe = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✅ Portfolio Dev</h3>
-      <a href="https://jrvalerio.github.io/Portfolio-Dev/">
-        <img src="assets/portfolio-dev.png" alt="Portfolio Dev preview" width="100%" />
+      <h3>✅ jrvalerio.dev</h3>
+      <a href="https://jrvalerio-dev.vercel.app">
+        <img src="assets/jrvalerio-dev.png" alt="jrvalerio.dev preview" width="100%" />
       </a>
-      <p><strong>Description:</strong> Responsive developer portfolio with mobile-first layout, project showcase, and contact section — demonstrating CSS architecture and design system application.</p>
-      <p><strong>Stack:</strong> HTML5, CSS3, JavaScript</p>
-      <p>🔗 <a href="https://github.com/JrValerio/Portfolio-Dev">Repo</a> | 🌐 <a href="https://jrvalerio.github.io/Portfolio-Dev/">Demo</a></p>
+      <p><strong>Description:</strong> Personal developer portfolio "JR Minimal" — project archive, architecture notes, engineering principles, and metrics. Built with TypeScript, focused on clarity and performance.</p>
+      <p><strong>Stack:</strong> TypeScript, Next.js, Tailwind CSS</p>
+      <p>🔗 <a href="https://github.com/JrValerio/jrvalerio.dev">Repo</a> | 🌐 <a href="https://jrvalerio-dev.vercel.app">Demo</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>✅ ADM Madureira Atibaia</h3>
